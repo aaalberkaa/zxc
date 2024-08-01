@@ -303,7 +303,7 @@ body, html {
 #final-message2 {
   position: absolute;
   top: 50%;
-  left: 3%;
+  left: 35%;
   transform: translate(-50%, -50%);
   font-size: 64px;
   color: white;
